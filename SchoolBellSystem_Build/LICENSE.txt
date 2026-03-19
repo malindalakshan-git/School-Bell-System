@@ -1,0 +1,4 @@
+School Bell System
+Copyright (c) 2024 Malinda Lakshan
+
+This software is provided for educational and personal use.
