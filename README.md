@@ -17,7 +17,7 @@ A professional, user-friendly automated bell management system specially designe
 ## 🚀 How to Use
 
 ### For General Users
-1.  Go to the **[Releases](https://github.com/YOUR_GITHUB_USERNAME/school-bell-system/releases)** section.
+1.  Go to the **[Releases]([https://github.com/YOUR_GITHUB_USERNAME/school-bell-system/release](https://github.com/malindalakshan-git/School-Bell-System/releases))** section.
 2.  Download the latest `School_Bell_Setup.exe`.
 3.  Install the application and launch it from the desktop shortcut.
 
